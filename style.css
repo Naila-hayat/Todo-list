@@ -11,7 +11,7 @@ body {
   place-items: center;
   height: 100vh;
   font-family: 'Oswald', sans-serif;
-  background: linear-gradient(to right, #635acf, #915fc7);
+  background-color: #352f5b;
 }
 
 input,
